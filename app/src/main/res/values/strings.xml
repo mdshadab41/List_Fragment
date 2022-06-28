@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">List_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="cities">
+
+        <item>Patna</item>
+        <item>Muzaffarpur</item>
+        <item>Hajipur</item>
+        <item>Samastipur</item>
+        <item>Motipur</item>
+
+
+    </string-array>
+
+
+</resources>
